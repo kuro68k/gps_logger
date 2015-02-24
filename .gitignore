@@ -1,0 +1,6 @@
+*.atsuo
+*.mk
+Makefile
+gps_logger/Release/*
+gps_logger/Debug/*
+private/*
