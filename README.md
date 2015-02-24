@@ -9,4 +9,4 @@ Encrypted data is stored in flash memory, and can only be decrypted on a PC with
 
 Care is taken to ensure data intergrity, even when the power supply is unexpectedly removed.
 
-License: GPL V3.
+Licence: GPL V3.
